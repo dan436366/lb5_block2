@@ -33,6 +33,10 @@ namespace struct_lab_student
             scholarship = Convert.ToInt32(data[8]);
 
         }
-
+        public override string ToString()
+        {
+            return $"{surName} {firstName} {patronymic} {sex} {dateOfBirth} " +
+                $"{mathematicsMark} {physicsMark} {informaticsMark} {scholarship}";
+        }
     }
 }

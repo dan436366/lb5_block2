@@ -25,3 +25,11 @@ D:\Dan\university\palm2\lb5_block2\StructLabStudent-master\obj\x86\Debug\StructL
 D:\Dan\university\palm2\lb5_block2\StructLabStudent-master\obj\x86\Debug\StructLabStudent.csproj.CoreCompileInputs.cache
 D:\Dan\university\palm2\lb5_block2\StructLabStudent-master\obj\x86\Debug\ConsoleApplication.exe
 D:\Dan\university\palm2\lb5_block2\StructLabStudent-master\obj\x86\Debug\ConsoleApplication.pdb
+X:\учёба\универ\палм\семестр 2\лаб 5\lab5_block2\lb5_block2\StructLabStudent-master\bin\Debug\ConsoleApplication.exe.config
+X:\учёба\универ\палм\семестр 2\лаб 5\lab5_block2\lb5_block2\StructLabStudent-master\bin\Debug\ConsoleApplication.exe
+X:\учёба\универ\палм\семестр 2\лаб 5\lab5_block2\lb5_block2\StructLabStudent-master\bin\Debug\ConsoleApplication.pdb
+X:\учёба\универ\палм\семестр 2\лаб 5\lab5_block2\lb5_block2\StructLabStudent-master\obj\x86\Debug\StructLabStudent.csproj.AssemblyReference.cache
+X:\учёба\универ\палм\семестр 2\лаб 5\lab5_block2\lb5_block2\StructLabStudent-master\obj\x86\Debug\StructLabStudent.csproj.SuggestedBindingRedirects.cache
+X:\учёба\универ\палм\семестр 2\лаб 5\lab5_block2\lb5_block2\StructLabStudent-master\obj\x86\Debug\StructLabStudent.csproj.CoreCompileInputs.cache
+X:\учёба\универ\палм\семестр 2\лаб 5\lab5_block2\lb5_block2\StructLabStudent-master\obj\x86\Debug\ConsoleApplication.exe
+X:\учёба\универ\палм\семестр 2\лаб 5\lab5_block2\lb5_block2\StructLabStudent-master\obj\x86\Debug\ConsoleApplication.pdb
