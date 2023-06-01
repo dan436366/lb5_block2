@@ -20,8 +20,18 @@ namespace struct_lab_student
         {
             // TODO   you SHOULD IMPLEMENT constructor with exactly this signature
             // lineWithAllData is string contating all data about one student, as described in statement
+            string[] data = lineWithAllData.Trim().Split(" ".ToCharArray(), StringSplitOptions.RemoveEmptyEntries);
 
-            
+            surName = data[0];
+            firstName = data[1];
+            patronymic = data[2];
+            sex = Convert.ToChar(data[3]);
+            dateOfBirth = data[4];
+            mathematicsMark = Convert.ToChar(data[5]);
+            physicsMark = Convert.ToChar(data[6]);
+            informaticsMark = Convert.ToChar(data[7]);
+            scholarship = Convert.ToInt32(data[8]);
+
         }
 
     }
