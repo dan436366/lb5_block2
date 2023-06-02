@@ -18,7 +18,7 @@ namespace struct_lab_student
             Student[] students = new Student[lines.Length];
             for (int i = 0; i < lines.Length; i++)
             {
-                // \s+ - це регулярний вираз який вiдповiдає одному або декiльком пробiлам
+                // \s+ - це регулярний вираз який вiдповiдає одному або декiльком пропусковим символам
                 string line = Regex.Replace(lines[i], "\\s+", " ");
                 students[i] = new Student(line);
             }
